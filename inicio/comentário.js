@@ -12,4 +12,4 @@ console.log('Passo #02'); //mais um exemplo de console.log
  *  um comentário
  *  de multiplas linhas
  */
-console.log('Passo #02');
+console.log('Passo #03');
